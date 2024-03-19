@@ -1,0 +1,52 @@
+/* Home.css */
+.hero {
+    text-align: center;
+    padding: 50px 0;
+  }
+  
+  .cta-button {
+    background-color: #007bff;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-decoration: none;
+  }
+  
+  .services {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin-top: 50px;
+  }
+  
+  .service {
+    width: 30%;
+    margin-bottom: 20px;
+  }
+  
+  .service img {
+    width: 100%;
+    height: auto;
+    border-radius:40px;
+  }
+  
+  .testimonials {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  .testimonial {
+    margin-bottom: 20px;
+  }
+  
+  .testimonial span {
+    font-style: italic;
+  }
+  .homeheading
+  {
+    text-align: center;
+  }
+  .h3
+{
+    text-align: center;
+}
